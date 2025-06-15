@@ -4,19 +4,19 @@ import React from "react";
 const products = [
   {
     name: "M-Sand",
-    price: 900,
-    unit: "ton",
+    availability: "available",
   },
   {
     name: "Silica",
-    price: 1250,
-    unit: "ton",
+    availability: "available",
   },
   {
     name: "Greet 20mm",
-    price: 750,
-    unit: "ton",
+    availability: "available",
   },
+  {
+    name: "Banas Sand",
+    availability: "available",
 ];
 
 const Index = () => (

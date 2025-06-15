@@ -10,20 +10,22 @@ const PRODUCTS = [
   {
     id: 1,
     name: 'M-Sand',
-    price_per_ton: 900,
-    unit: 'ton'
+    availability: "available",
   },
   {
     id: 2,
     name: 'Silica',
-    price_per_ton: 1250,
-    unit: 'ton'
+    availability: "available",
   },
   {
     id: 3,
     name: 'Greet 20mm',
-    price_per_ton: 750,
-    unit: 'ton'
+    availability: "available",
+  },
+  {
+    id: 4,
+    name: 'Banas Sand',
+    availability: "available",
   }
 ];
 

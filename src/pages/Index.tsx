@@ -17,6 +17,7 @@ const products = [
   {
     name: "Banas Sand",
     availability: "available",
+  }
 ];
 
 const Index = () => (
